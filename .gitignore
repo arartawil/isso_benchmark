@@ -25,3 +25,16 @@ desktop.ini
 # Temp
 *.tmp
 *.bak
+
+# Result data and outputs (published separately on Zenodo)
+results/
+results_*/
+result_*/
+experiments/
+*.docx
+*.pdf
+*.zip
+prev-*.png
+
+# Tooling
+.claude/
